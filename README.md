@@ -8,6 +8,7 @@ Este repositorio contiene un **dashboard exclusivo para volantes Moza**, diseña
 - Compatible con volantes Moza.
 - Interfaz clara y fácil de usar en ETS2.
 - Próximamente también disponible para SimHub.
+- **Nota sobre el combustible:** puede que el indicador de combustible no muestre siempre la cantidad exacta en todos los camiones, ya que Moza no implementó la información exacta de combustible para cada camión. Sin embargo, la configuración que he puesto es suficiente y no afecta la experiencia de uso.
 
 ## Instalación
 1. Extrae la carpeta descargada en tu equipo.  
@@ -36,6 +37,7 @@ This repository contains an **exclusive dashboard for Moza wheels**, specificall
 - Compatible with Moza wheels.
 - Clear and easy-to-use interface for ETS2.
 - Coming soon also for SimHub.
+- **Fuel note:** the fuel indicator may not always show the exact amount in all trucks, since Moza did not implement precise fuel information for each truck. However, the setup provided is sufficient and does not affect usability.
 
 ## Installation
 1. Extract the downloaded folder on your computer.  

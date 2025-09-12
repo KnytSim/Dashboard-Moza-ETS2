@@ -1,3 +1,5 @@
+## Spanish Version
+
 # Dashboard Moza para ETS2
 
 Este repositorio contiene un **dashboard exclusivo para volantes Moza**, diseñado específicamente para **Euro Truck Simulator 2 (ETS2)**, mejorando tu experiencia de simulación.

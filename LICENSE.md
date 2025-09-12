@@ -1,6 +1,6 @@
 Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)
 
-Copyright (c) [AÑO] [TU NOMBRE O USUARIO]
+Copyright (c) [2025] [KnytSim]
 
 This work is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International License.  
 To view a copy of this license, visit: https://creativecommons.org/licenses/by-nd/4.0/
@@ -14,7 +14,7 @@ Summary of the license terms:
 
 Creative Commons Reconocimiento-NoDerivadas 4.0 Internacional (CC BY-ND 4.0)
 
-Copyright (c) [AÑO] [TU NOMBRE O USUARIO]
+Copyright (c) [2025] [KnytSim]
 
 Este trabajo está licenciado bajo la Licencia Creative Commons Reconocimiento-NoDerivadas 4.0 Internacional.  
 Para ver una copia de esta licencia, visita: https://creativecommons.org/licenses/by-nd/4.0/

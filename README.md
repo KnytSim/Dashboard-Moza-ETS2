@@ -5,25 +5,28 @@
 Este repositorio contiene un **dashboard exclusivo para volantes Moza**, diseñado específicamente para **Euro Truck Simulator 2 (ETS2)**, mejorando tu experiencia de simulación.
 
 ## Características
-- Compatible con volantes Moza.
-- Interfaz clara y fácil de usar en ETS2.
-- Próximamente también disponible para SimHub.
-- **Nota sobre el combustible:** puede que el indicador de combustible no muestre siempre la cantidad exacta en todos los camiones, ya que Moza no implementó la información exacta de combustible para cada camión. Sin embargo, la configuración que he puesto es suficiente y no afecta la experiencia de uso.
+- Compatible con volantes Moza.  
+- Interfaz clara y fácil de usar en ETS2.  
+- Actualmente disponibles dashboards para **Scania** y **Renault**.  
+- Próximamente se añadirán dashboards para las demás marcas.  
+- Los dashboards actuales aún necesitan actualizaciones para mejorar su precisión.  
+- El objetivo es hacerlo lo más realista posible teniendo en cuenta las restricciones de la aplicación de Moza.  
+- **Nota sobre el combustible:** puede que el indicador de combustible no muestre siempre la cantidad exacta en todos los camiones, ya que Moza no implementó la información exacta de combustible para cada modelo. Sin embargo, la configuración que he puesto es suficiente y no afecta la experiencia de uso.  
 
 ## Instalación
 1. Extrae la carpeta descargada en tu equipo.  
 2. Abre el software de Moza y ve al apartado de **Dashboard**.  
 3. En la parte derecha, haz clic en el botón **Importar** y selecciona el archivo `.mzdash` que encontrarás dentro de la carpeta descargada.  
 4. Si después de esto no aparece en el lado izquierdo, búscalo en el lado derecho y cárgalo manualmente.  
-5. ¡Listo! Tu dashboard ya está preparado para usar en ETS2.
+5. ¡Listo! Tu dashboard ya está preparado para usar en ETS2.  
 
 ## Uso permitido
 - Puedes **descargar y usar** este dashboard únicamente para tu experiencia personal en ETS2.  
 - **No está permitido redistribuir, subir a otras plataformas ni modificar** el contenido.  
-- Debes dar crédito al autor original si lo mencionas en videos o publicaciones.
+- Debes dar crédito al autor original si lo mencionas en videos o publicaciones.  
 
 ## Actualizaciones
-Este repositorio se actualizará regularmente, especialmente si Moza lanza **actualizaciones importantes que afecten el uso del dashboard en ETS2**. Revisa las [releases](#) para obtener la última versión.
+Este repositorio se actualizará regularmente, especialmente si Moza lanza **actualizaciones importantes que afecten el uso del dashboard en ETS2**. Revisa las [releases](#) para obtener la última versión.  
 
 ---
 
@@ -34,25 +37,28 @@ Este repositorio se actualizará regularmente, especialmente si Moza lanza **act
 This repository contains an **exclusive dashboard for Moza wheels**, specifically designed for **Euro Truck Simulator 2 (ETS2)**, enhancing your simulation experience.
 
 ## Features
-- Compatible with Moza wheels.
-- Clear and easy-to-use interface for ETS2.
-- Coming soon also for SimHub.
-- **Fuel note:** the fuel indicator may not always show the exact amount in all trucks, since Moza did not implement precise fuel information for each truck. However, the setup provided is sufficient and does not affect usability.
+- Compatible with Moza wheels.  
+- Clear and easy-to-use interface for ETS2.  
+- Currently available dashboards for **Scania** and **Renault**.  
+- Dashboards for other brands will be added soon.  
+- Existing dashboards still require updates to improve accuracy.  
+- The goal is to make it as realistic as possible, considering the limitations of the Moza application.  
+- **Fuel note:** the fuel indicator may not always show the exact amount in all trucks, since Moza did not implement precise fuel information for each model. However, the setup provided is sufficient and does not affect usability.  
 
 ## Installation
 1. Extract the downloaded folder on your computer.  
 2. Open the Moza software and go to the **Dashboard** section.  
 3. On the right side, click **Import** and select the `.mzdash` file found in the downloaded folder.  
 4. If it does not appear on the left side afterward, look for it on the right side and load it manually.  
-5. Done! Your dashboard is now ready to use in ETS2.
+5. Done! Your dashboard is now ready to use in ETS2.  
 
 ## Allowed Usage
 - You can **download and use** this dashboard only for personal use in ETS2.  
 - **Redistributing, uploading to other platforms, or modifying** the content is not allowed.  
-- You must give credit to the original author if mentioned in videos or posts.
+- You must give credit to the original author if mentioned in videos or posts.  
 
 ## Updates
-This repository will be updated regularly, especially if Moza releases **important updates that affect the use of the dashboard in ETS2**. Check the [releases](#) section to get the latest version.
+This repository will be updated regularly, especially if Moza releases **important updates that affect the use of the dashboard in ETS2**. Check the [releases](#) section to get the latest version.  
 
 ---
 

@@ -13,8 +13,6 @@ El dashboard analógico está pensado para ofrecer toda la información importan
 ### Características
 - Compatible con volantes Moza.  
 - Interfaz clara y fácil de usar en ETS2.  
-- Actualmente disponibles dashboards para **Scania** y **Renault**.  
-- Próximamente se añadirán dashboards para las demás marcas.  
 - Los dashboards actuales necesitan actualizaciones para mejorar su precisión.  
 - Objetivo: hacerlo lo más realista posible dentro de las restricciones de la aplicación de Moza.  
 - **Nota sobre el combustible:** puede que el indicador de combustible no muestre siempre la cantidad exacta en todos los camiones, ya que Moza no implementó información precisa para cada modelo. La configuración actual es suficiente y no afecta la experiencia de uso.
@@ -65,8 +63,6 @@ The analog dashboard is designed to display all the important game information, 
 ### Features
 - Compatible with Moza wheels.  
 - Clear and easy-to-use interface for ETS2.  
-- Currently available dashboards for **Scania** and **Renault**.  
-- Dashboards for other brands will be added soon.  
 - Existing dashboards still require updates to improve accuracy.  
 - Goal: as realistic as possible given the limitations of the Moza application.  
 - **Fuel note:** the fuel indicator may not always show the exact amount in all trucks, but the current setup is sufficient and does not affect usability.

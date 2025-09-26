@@ -13,6 +13,8 @@ El dashboard analógico está pensado para ofrecer toda la información importan
 ### Características
 - Compatible con volantes Moza.  
 - Interfaz clara y fácil de usar en ETS2.  
+- Actualmente disponibles dashboards para **Scania** y **Renault**.  
+- Próximamente se añadirán dashboards para las demás marcas.  
 - Los dashboards actuales necesitan actualizaciones para mejorar su precisión.  
 - Objetivo: hacerlo lo más realista posible dentro de las restricciones de la aplicación de Moza.  
 - **Nota sobre el combustible:** puede que el indicador de combustible no muestre siempre la cantidad exacta en todos los camiones, ya que Moza no implementó información precisa para cada modelo. La configuración actual es suficiente y no afecta la experiencia de uso.
@@ -32,7 +34,8 @@ El dashboard digital ofrece información muy clara para que **no sea necesario m
 - **Oil Temperature & Water Temperature:** indicadores de temperatura con colores: azul (frío), verde (óptimo), rojo (crítico).  
 - **Tiempo de descanso:** muestra cuánto tiempo queda para dormir (no garantizado al 100%).  
 - **Velocímetro:** se pondrá en rojo si superas los 90 km/h.  
-- **RPM:** indicador alternativo sin agujas; azul normalmente, verde en RPM óptimas, rojo si se supera.
+- **RPM:** indicador alternativo sin agujas; azul normalmente, verde en RPM óptimas, rojo si se supera.  
+- **Aviso de rotura de motor:** si el motor tiene entre 10% y 20% de daño, se muestra un aviso en amarillo (no grave). A partir de 21% en adelante, el aviso se pondrá en rojo, indicando que es necesario repararlo.
 
 ---
 
@@ -63,6 +66,8 @@ The analog dashboard is designed to display all the important game information, 
 ### Features
 - Compatible with Moza wheels.  
 - Clear and easy-to-use interface for ETS2.  
+- Currently available dashboards for **Scania** and **Renault**.  
+- Dashboards for other brands will be added soon.  
 - Existing dashboards still require updates to improve accuracy.  
 - Goal: as realistic as possible given the limitations of the Moza application.  
 - **Fuel note:** the fuel indicator may not always show the exact amount in all trucks, but the current setup is sufficient and does not affect usability.
@@ -82,7 +87,8 @@ The digital dashboard provides clear information so that **you don't need to con
 - **Oil Temperature & Water Temperature:** temperature indicators with colors: blue (cold), green (optimal), red (critical).  
 - **Rest time:** shows remaining time for sleep (may not work 100%).  
 - **Speedometer:** turns red if you exceed 90 km/h.  
-- **RPM:** alternative indicator without needles; blue normally, green at optimal RPM, red if exceeded.
+- **RPM:** alternative indicator without needles; blue normally, green at optimal RPM, red if exceeded.  
+- **Engine damage warning:** if the engine has 10–20% damage, a yellow warning appears (not critical). Above 20%, a red warning indicates that repair is needed.
 
 ---
 

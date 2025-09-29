@@ -53,6 +53,10 @@ Revisa la sección de [releases](#) para obtener siempre la última versión.
 
 ---
 
+¡Disfruta de los paneles de Moza para ETS2 y que tengas un buen viaje! 🛣️  
+
+---
+
 ## 🌍 English Version
 
 # Moza Dashboards for ETS2

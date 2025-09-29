@@ -16,8 +16,7 @@ Actualmente incluye **4 plantillas diferentes**, todas disponibles en **español
 - Pensado para quienes prefieren un diseño simple y fiel a los cuadros de instrumentos reales.  
 
 ### 2️⃣ Híbrido
-- Combina **analógico y digital**.  
-- Es el dashboard que antes llamábamos “Analógico”.  
+- Combina **analógico y digital**.    
 - Muestra la mayoría de los indicadores clásicos, pero con un toque moderno y mejoras visuales.  
 
 ### 3️⃣ Digital
